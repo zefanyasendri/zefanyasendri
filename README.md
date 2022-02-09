@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Zefanya Sendri**.
-Saya seorang **Mahasiswa Informatika** di [ITHB](https://www.ithb.ac.id/).
-Jika kamu tertarik untuk berkenalan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zefanyasendri/) saya ya.
+Perkenalkan nama saya **Zefanya Sendri**.\
+Saya seorang **Mahasiswa Informatika** di [ITHB](https://www.ithb.ac.id/).\
+Jika tertarik untuk berkenalan, follow me on : \
+[Linkedin](https://www.linkedin.com/in/zefanyasendri/) \
+[Instagram](https://www.instagram.com/zefanyasendri/)
+
 
 <p align="left">
 <a href="https://github.com/zefanyasendri">
