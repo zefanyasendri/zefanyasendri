@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zefanyasendri/zefanyasendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Zefanya Sendri**.
+
+Saya seorang **Mahasiswa Informatika** di [ITHB](https://www.ithb.ac.id/).
+
+Jika kamu tertarik untuk berkenalan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zefanyasendri/) saya ya.
+
