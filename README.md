@@ -13,18 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua! 
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Perkenalkan nama saya **Zefanya Sendri**.\
-Saya seorang **Mahasiswa Informatika** di [ITHB](https://www.ithb.ac.id/).\
-Jika tertarik untuk berkenalan, follow me on : \
-[Linkedin](https://www.linkedin.com/in/zefanyasendri/) \
-[Instagram](https://www.instagram.com/zefanyasendri/)
+My name is **Zefanya Sendri**.\
+I'm an **Informatics Student** at [ITHB](https://www.ithb.ac.id/).
 
 
+
+:zap: GitHub Statistics :
 <p align="left">
 <a href="https://github.com/zefanyasendri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zefanyasendri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zefanyasendri&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefanyasendri&theme=yeblu&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app//api/top-langs/?username=zefanyasendri&theme=yeblu&layout=compact"/>
 </a>
+<!--   <a href="https://www.instagram.com/zefanyasendri/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>  -->
 </p>
+
+📫 You Can Find Me at :
+
+[![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/zefanyasendri/) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/zefanyasendri)
