@@ -23,8 +23,9 @@ I'm an **Informatics Student** at [ITHB](https://www.ithb.ac.id/).
 :zap: GitHub Statistics :
 <p align="left">
 <a href="https://github.com/zefanyasendri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefanyasendri&theme=yeblu&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app//api/top-langs/?username=zefanyasendri&theme=yeblu&layout=compact"/>
+  <!--  color : yeblu  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefanyasendri&theme=graywhite&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app//api/top-langs/?username=zefanyasendri&theme=graywhite&layout=compact"/>
 </a>
 <!--   <a href="https://www.instagram.com/zefanyasendri/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
