@@ -45,13 +45,6 @@ I'm an **Informatics Student** at [ITHB](https://www.ithb.ac.id/).
   </a>
 </p>
 
-### 📄 Certifications
-- Dicoding [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/4EXG6RQKQZRL)
-- Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/KEXL3W7YRPG2)
-- Dicoding [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/JLX13Q06NP72)
-- Dicoding [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/1OP8L3N5QZQK)
-- Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/JLX13LE22P72)
-
 ### 📫 Connect with Me :
 <p> 
   <a href="https://www.linkedin.com/in/zefanyasendri/" target="_blank">
