@@ -45,6 +45,8 @@ I'm an **Informatics Student** at [ITHB](https://www.ithb.ac.id/).
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### 📫 Connect with Me :
 <p> 
   <a href="https://www.linkedin.com/in/zefanyasendri/" target="_blank">
