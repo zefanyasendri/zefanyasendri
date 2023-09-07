@@ -55,4 +55,10 @@ I'm an **Informatics Student** at [ITHB](https://www.ithb.ac.id/).
   <a href="https://www.instagram.com/zefanyasendri/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
+  <a href="https://twitter.com/zefanyasendrii" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://zefanyasendri.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a> 
 </p>
