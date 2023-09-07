@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Zefanya Sendri Wiloso**, you can call me "Zefa". I'm Software Engineer who specialized in _Frontend_.\
+My name is **Zefanya Sendri Wiloso**, you can call me "Zefa". I'm Software Engineer who specialized in _Frontend Web Development_.\
 I'm an **Informatics Student** at [ITHB](https://www.ithb.ac.id/).
 
 <!-- ### 📚 Tech Stack & Tools :
